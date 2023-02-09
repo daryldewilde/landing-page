@@ -1,1 +1,1 @@
-# oddin--recipes
+# oddin-recipes
